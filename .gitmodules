@@ -1,0 +1,15 @@
+[submodule "docs.lnear.dev"]
+	path = docs.lnear.dev
+	url = https://github.com/lnear-dev/docs
+[submodule "shuffle.lnear.dev"]
+	path = shuffle.lnear.dev
+	url = https://github.com/lnear-dev/shuffle
+[submodule "www.lnear.dev"]
+	path = www.lnear.dev
+	url = https://github.com/lnear-dev/lnear-dev.github.io.git
+[submodule "blog.lnear.dev"]
+	path = blog.lnear.dev
+	url = https://github.com/lnear-dev/blog
+[submodule "ascii.lnear.dev"]
+	path = ascii.lnear.dev
+	url = https://github.com/lnear-dev/ascii
